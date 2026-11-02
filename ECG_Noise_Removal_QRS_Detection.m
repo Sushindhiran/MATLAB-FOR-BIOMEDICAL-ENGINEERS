@@ -1,4 +1,4 @@
-%% EXPERIMENT 1: ECG NOISE REMOVAL AND QRS DETECTION
+%% EXPERIMENT 1: ECG NOISE REMOVAL AND QRS DETECTION.
 % Biomedical Engineering MATLAB Laboratory
 %
 % 1. AIM
@@ -318,3 +318,7 @@ end
 fprintf('Input file saved as: %s\\n', filename);
 fprintf('====================================\\n');
 fprintf('Experiment completed successfully.\\n');
+
+% Result
+
+The experiment was performed successfully using MATLAB. The input was processed according to the stated method and the expected biomedical output was obtained.
